@@ -1,0 +1,12 @@
+{
+  "name": "onsite-calculator-js",
+  "version": "1.0.0",
+  "description": "A Git exercise for the Pro Services team",
+  "main": "calculator.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node calculator.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

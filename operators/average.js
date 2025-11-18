@@ -1,6 +1,6 @@
 function average(a, b) {
   /**
-   * Calculates the average of a and b. (TODO: Implement this)
+   * Calculates the average of a and b.
    */
 
   return (a + b) / 2;

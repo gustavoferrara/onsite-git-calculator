@@ -4,6 +4,7 @@ function add(a, b) {
    */
   // --- YOUR CODE GOES HERE - MAKE THE FUNCTION RETURN THE RESULT WITH `return` ---
   return a +b;
+  // new comment
 }
 
 export default add;

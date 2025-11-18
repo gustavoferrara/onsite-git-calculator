@@ -7,7 +7,7 @@ function divide(a, b) {
   }
 
   // --- YOUR CODE GOES HERE - MAKE THE FUNCTION RETURN THE RESULT WITH `return` ---
-  
+  //I added more comments here to break someone's code.
 }
 
 export default divide;

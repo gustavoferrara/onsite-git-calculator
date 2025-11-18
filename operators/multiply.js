@@ -5,4 +5,6 @@ function multiply(a, b) {
 // --- YOUR CODE GOES HERE - MAKE THE FUNCTION RETURN THE RESULT WITH `return` ---
 }
 
+// Kyle's changes
+
 export default multiply;
